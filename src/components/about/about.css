@@ -68,6 +68,7 @@
 @media screen and (max-width: 1024px) {
     .about__container {
         grid-template-columns: 1fr;
+        
     }
     .about__me{
         width: 50%;
@@ -84,7 +85,10 @@
         .about__me{
             width: 65%;
             margin: 0 auto 3rem;
-            margin-bottom: 2rem;
+            /* margin-bottom: 2rem; */
+        }
+        #about{
+            margin-bottom: 12rem;
         }
         .about__cards {
             grid-template-columns: 1fr 1fr;
