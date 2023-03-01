@@ -1,5 +1,5 @@
 import React from "react";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/me-about.png";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -22,25 +22,28 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2 Years Working</small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>Worldwide</small>
+              <small>
+                10+ clients <br /> Worldwide
+              </small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>60+ Completed</small>
+              <small>20+ Completed</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui dicta
-            minus molestiae vel beatae natus eveniet ratione temporibus aperiam
-            harum alias officiis assumenda officia quibusdam deleniti eos
-            cupiditate dolore doloribus!
+            Lover of all things Android and Web. I am an experienced
+            professional React and React native developer. I have strong
+            problem-solving skills and the ability to learn new technologies
+            quickly. Eager to join a team of talented developers and help build
+            world-class web and mobile apps
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
