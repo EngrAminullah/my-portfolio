@@ -18,24 +18,13 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Coming Soon...</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Loading....</p>
             </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
+            
             
           </ul>
         </article>
@@ -48,23 +37,31 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Custom Websites</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Convert Figma to react</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Convert psd to react</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Convert sketch to raect</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Convert xd to raect</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Pixel Perfect Design</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>100% Mobile Responsive Design</p>
             </li>
             
           </ul>
@@ -72,33 +69,33 @@ const Services = () => {
         {/* End Of Web Dev */}
         <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Mobile Development</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Custom React Native App.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Convert Figma to react native</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Convert psd to react native</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Convert sketch to react native</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Convert xd to react native</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>100% Responsive Design</p>
             </li>
             
           </ul>
